@@ -172,7 +172,7 @@ async function makeChoice(choice) {
           "_blank"
         );
         wishesElement.innerHTML =
-          "Check your Instagram, Shalini! 📱✨<br>💖I am there💖";
+          "Check your Instagram, Samridhi! 📱✨<br>💖I am there💖";
       }, 1000);
     }, 2000);
   }
